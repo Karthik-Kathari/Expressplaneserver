@@ -1,0 +1,71 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+env/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build / dist
+dist/
+build/
+out/
+
+# Coverage
+coverage/
+*.lcov
+
+# Git
+*.orig
+
+# Temp files
+*.swp
+*.tmp
+*.bak
+*.old
+*.~*
+
+# React / Webpack / Frontend
+.cache/
+.parcel-cache/
+.next/
+.storybook/
+public/static/
+
+# Misc
+*.zip
+*.tar
+*.gz
+*.tgz
+*.7z
+*.rar
